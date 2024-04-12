@@ -44,6 +44,9 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 <br>
 - Aligment: Humanización de cultura, procesos y equipos.
 
+
+<h2 >Conoce más de nuestra filosofía y modelo en nuestro blog:</h2>
+<a href="https://elblogdeslgroup.wordpress.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog_SL"/></a>
 <!--Intro end-->
   </p>
 <br>
