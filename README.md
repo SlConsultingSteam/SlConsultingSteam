@@ -14,11 +14,15 @@
 
 Nuestros modelos facilitan la adopción consciente de la humanización, y la coherencia y sincronía entre la organización, la estrategia y las personas:
 <br>
+<br>
 •	Aportando conocimiento estratégico desde una perspectiva humana.
+<br>
 •	Habilitando espacios para ver lo que otros no ven. 
+<br>
 •	Transitando lo inexplorado.
+<br>
 •	Transformando Mindsets.
-
+<br>
 Construimos sobre tres pilares:
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
 •	Su activación a través de los ARQUETIPOS que crean escenarios de conexión relevante
