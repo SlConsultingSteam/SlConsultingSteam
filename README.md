@@ -53,10 +53,10 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,js,nodejs,git,github,vscode,bash,ai&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,css,html,js,nodejs,git,github,vscode,bash&perline=12" />
   </a>
 </p>
-<br>
+
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
