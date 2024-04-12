@@ -25,7 +25,7 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 
 <h2>Construimos sobre tres pilares:</h2>
 <!--Intro start-->
-<br><br>
+
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
 <br>
 •	Su activación a través de los ARQUETIPOS que crean escenarios de conexión relevante
