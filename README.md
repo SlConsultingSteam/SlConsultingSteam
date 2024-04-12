@@ -1,6 +1,6 @@
 <h1 align="center">Hola Esto es SL Consulting: Insights & Arquetypos ✨ </h1> 
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@slresearchcolombiasas4757" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@SL Consulting"  /></a>
 <a href="https://www.linkedin.com/company/sl-insights-arquetypos" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SL Consulting"/></a>
 <a href="https://www.facebook.com/SLInsightsyArquetypos/?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="SL Consulting"  /></a>
