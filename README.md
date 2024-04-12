@@ -5,10 +5,9 @@
 <a href="https://www.linkedin.com/company/sl-insights-arquetypos" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SL Consulting"/></a>
 <a href="https://www.facebook.com/SLInsightsyArquetypos/?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="SL Consulting"  /></a>
 </p>
-<br>
+
 <h2>Acerca de 💭</h2>
 <!--Intro start-->
-
 <p align="center">
 <p>Somos una consultora en estrategia y transformación a nivel LATAM que nace con un interés en la humanización de los negocios, por eso hemos desarrollado modelos de comprensión humana, que generan valor estratégico, para el progreso sostenido de las organizaciones y las comunidades a las que impacta.</p>
 
