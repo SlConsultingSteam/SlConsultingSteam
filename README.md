@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/SLInsightsyArquetypos/?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="SL Consulting"  /></a>
 </p>
 <br>
-<h2>Acerca de</h2>
+<h2>Acerca de 💭</h2>
 <!--Intro start-->
 
 <p align="center">
@@ -23,7 +23,7 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 •	Transformando Mindsets.
 <br><br>
 
-<h2>Construimos sobre tres pilares:</h2>
+<h2>Construimos sobre tres pilares: 👁‍🗨</h2>
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
 <br>
 •	Su activación a través de los ARQUETIPOS que crean escenarios de conexión relevante
@@ -35,7 +35,7 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 
 <p>Desafiamos lo convencional: Estamos en constante cambio y movimiento, desarrollando metodologías poderosas que generan valor en toda la cadena.</p>
 
-<h2>Soluciones SL:</h2>
+<h2>Soluciones SL: 🛠</h2>
 - Discovery: Detección de INSIGHTS validando caminos y mapas de oportunidades.
 <br>
 - Strategy: Implicación en el negocio y la innovación.
@@ -45,11 +45,9 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 - Aligment: Humanización de cultura, procesos y equipos.
 
 
-<h2 >Conoce más de nuestra filosofía y modelo en nuestro blog:</h2>
+<h2 >Conoce más de nuestra filosofía y modelo en nuestro blog: 📲🖱</h2>
 <a href="https://elblogdeslgroup.wordpress.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog_SL"/></a>
-<!--Intro end-->
-  </p>
-<br>
+</p>
 
 <h2 >Tecnologías Implementadas👨🏻‍💻</h2>
 <!--tech stack icons-->
