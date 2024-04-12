@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <p align="center">
-<p> 📍Somos una consultora en estrategia y transformación a nivel LATAM que nace con un interés en la humanización de los negocios, por eso hemos desarrollado modelos de comprensión humana, que generan valor estratégico, para el progreso sostenido de las organizaciones y las comunidades a las que impacta.</p>
+<p>Somos una consultora en estrategia y transformación a nivel LATAM que nace con un interés en la humanización de los negocios, por eso hemos desarrollado modelos de comprensión humana, que generan valor estratégico, para el progreso sostenido de las organizaciones y las comunidades a las que impacta.</p>
 
 Nuestros modelos facilitan la adopción consciente de la humanización, y la coherencia y sincronía entre la organización, la estrategia y las personas:
 <br><br>
