@@ -20,7 +20,7 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 •	Transitando lo inexplorado.
 <br>
 •	Transformando Mindsets.
-<br><br>
+<br>
 
 <h2>Construimos sobre tres pilares: 👁‍🗨</h2>
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
