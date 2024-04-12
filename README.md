@@ -24,8 +24,6 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 <br><br>
 
 <h2>Construimos sobre tres pilares:</h2>
-<!--Intro start-->
-
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
 <br>
 •	Su activación a través de los ARQUETIPOS que crean escenarios de conexión relevante
@@ -36,6 +34,15 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 <p>Nos basamos en un pensamiento sistémico a partir de la construcción de narrativas poderosas que inspiran, generan consciencia y transforman nuestra forma de ver lo que hacemos y el por qué lo hacemos. Insights y arquetipos son una dupla de alto valor, “Los insights reflejan la trama de cada historia y los arquetipos son los personajes que le dan vida a esas historias”.</p>
 
 <p>Desafiamos lo convencional: Estamos en constante cambio y movimiento, desarrollando metodologías poderosas que generan valor en toda la cadena.</p>
+
+<h2>Soluciones SL:</h2>
+- Discovery: Detección de INSIGHTS validando caminos y mapas de oportunidades.
+<br>
+- Strategy: Implicación en el negocio y la innovación.
+<br>
+- Capilities: Desarrollo de habilidades del futuro y su implicación.
+<br>
+- Aligment: Humanización de cultura, procesos y equipos.
 
 <!--Intro end-->
   </p>
