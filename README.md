@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E3DAQEOc1dguR3anQ/image-scale_191_1128/0/1687964490990/sl_insights_arquetypos_cover?e=1713538800&v=beta&t=Aa8R0Ahi1IekDYE6zTaFkMJh0XBjZH5DWsLMV3xJaCA" style="width:100vw">
+<img src="https://elblogdeslgroup.wordpress.com/wp-content/uploads/2020/11/cropped-piezas-linked-09.jpg" style="width:100vw">
 
 <h1 align="center">Hola Esto es SL Consulting: Insights & Arquetypos ✨ </h1> 
 
