@@ -13,8 +13,7 @@
 <p> 📍Somos una consultora en estrategia y transformación a nivel LATAM que nace con un interés en la humanización de los negocios, por eso hemos desarrollado modelos de comprensión humana, que generan valor estratégico, para el progreso sostenido de las organizaciones y las comunidades a las que impacta.</p>
 
 Nuestros modelos facilitan la adopción consciente de la humanización, y la coherencia y sincronía entre la organización, la estrategia y las personas:
-<br>
-<br>
+<br><br>
 •	Aportando conocimiento estratégico desde una perspectiva humana.
 <br>
 •	Habilitando espacios para ver lo que otros no ven. 
@@ -22,17 +21,21 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 •	Transitando lo inexplorado.
 <br>
 •	Transformando Mindsets.
-<br>
+<br><br>
+
 Construimos sobre tres pilares:
+<br><br>
 •	INSIGHTS poderosos que nos permiten develar verdades y desafiar pensamientos
+<br>
 •	Su activación a través de los ARQUETIPOS que crean escenarios de conexión relevante
+<br>
 •	Enfoque en DISEÑO E INNOVACIÓN como fuente de inspiración para nuevas perspectivas. 
+<br><br>
 
 <p>Nos basamos en un pensamiento sistémico a partir de la construcción de narrativas poderosas que inspiran, generan consciencia y transforman nuestra forma de ver lo que hacemos y el por qué lo hacemos. Insights y arquetipos son una dupla de alto valor, “Los insights reflejan la trama de cada historia y los arquetipos son los personajes que le dan vida a esas historias”.</p>
 
 <p>Desafiamos lo convencional: Estamos en constante cambio y movimiento, desarrollando metodologías poderosas que generan valor en toda la cadena.</p>
 
-📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
   </p>
 <br>
