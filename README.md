@@ -74,7 +74,7 @@ Nuestros modelos facilitan la adopción consciente de la humanización, y la coh
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SlConsultingSteam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
